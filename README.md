@@ -2,7 +2,7 @@
  
 This example app is used as a template for the tutorial Building Portable Agents with Go!
 
-**Prerequisites:** [go 1.18](https://go.dev/dl/), a github account, and a MySQL database (for example, using [Docker](#Getting Started)
+**Prerequisites:** [go 1.18](https://go.dev/dl/), a github account, and a MySQL database (for example, using [Docker](#getting-started) )
 
 * [Getting Started](#getting-started)
 * [Links](#links)
